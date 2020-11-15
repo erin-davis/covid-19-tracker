@@ -74,3 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 https://covid19.mathdro.id/api
 https://github.com/mathdroid/covid19
+
+
+### Icon Sources
+
+Icons made by Freepik ["https://www.flaticon.com/authors/freepik"] from ["https://www.flaticon.com/"]

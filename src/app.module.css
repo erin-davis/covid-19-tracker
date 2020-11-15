@@ -1,5 +1,5 @@
 body{
-  background-color: lightgray;
+  background-color: #f5f0f0;
 }
 
 .container{
@@ -7,4 +7,19 @@ body{
   align-items: center;
   justify-content: center; 
   flex-direction: column;
+}
+
+.image{
+  width: 400px;
+  margin-top: 50px;
+}
+
+@media(max-width: 770px){
+  .container{
+    margin: 0 10%;
+  }
+
+  .image{
+    width: 100%;
+  }
 }
